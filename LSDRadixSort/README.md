@@ -1,4 +1,4 @@
-# Selection Sort
+# LSD Radix Sort
 **Kind**: Sorting algorithm
 
 ## Time complexity

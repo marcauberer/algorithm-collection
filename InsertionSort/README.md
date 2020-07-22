@@ -1,4 +1,4 @@
-# Selection Sort
+# Insertion Sort
 **Kind**: Sorting algorithm
 
 ## Time complexity

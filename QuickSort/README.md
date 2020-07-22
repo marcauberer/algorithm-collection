@@ -1,4 +1,4 @@
-# Selection Sort
+# Quick Sort
 **Kind**: Sorting algorithm
 
 ## Time complexity
