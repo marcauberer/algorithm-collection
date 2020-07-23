@@ -1,5 +1,7 @@
 # Insertion Sort
-**Kind**: Sorting algorithm
+**Kind**: Sorting algorithm <br>
+**Can work in-place**: Yes <br>
+**Stable**: Yes
 
 ## Time complexity
 

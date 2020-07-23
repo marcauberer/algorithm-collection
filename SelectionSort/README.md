@@ -1,7 +1,7 @@
 # Selection Sort
-**Kind**: Sorting algorithm <br>
-**Working In-place**: No <br>
-**Stablility**: Stable if the algorithm takes the first minimum, when two equal minimal numbers occur.
+**Algorithm type**: Sorting algorithm <br>
+**Can work in-place**: No <br>
+**Stable**: Stable if the algorithm takes the first minimum, when two equal minimal numbers occur.
 
 ## Time complexity
 
