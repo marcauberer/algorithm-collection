@@ -23,7 +23,6 @@ end function
 ```
 
 ## Animation
-![SelectionSort animation](https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif) <br>
-**Source: wikimedia.org**
+[Go to animation](https://www.toptal.com/developers/sorting-algorithms/selection-sort)
 
 © Marc Auberer 2020

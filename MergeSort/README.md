@@ -11,4 +11,7 @@
 
 ```
 
+## Animation
+[Go to animation](https://www.toptal.com/developers/sorting-algorithms/merge-sort)
+
 © Marc Auberer 2020
