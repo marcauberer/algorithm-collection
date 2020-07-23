@@ -3,16 +3,16 @@ const val PRINT_STEPS = true
 fun main() {
     // Initialize value spaces
     val inputValues = mutableListOf(6, 1, 5, 1, 3, 9, 4)
-    val outputValues = ArrayList<Int>()
 
     // Sort input list
-    sort()
+    val outputValues = sort(inputValues)
 
     // Print result
     println("Result: $outputValues")
 }
 
-private fun sort() {
+private fun sort(inputValues: MutableList<Int>) {
+    val outputValues = ArrayList<Int>()
     // Loop through input list
     for (i in inputValues.indices) {
         // Find min number in current list
