@@ -24,6 +24,6 @@ end function
 
 ## Animation
 ![SelectionSort animation](https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif) <br>
-Source: https://upload.wikimedia.org/wikipedia/commons/6/6d/Selsort_de_0.gif
+**Source: wikimedia.org**
 
 © Marc Auberer 2020
