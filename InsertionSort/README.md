@@ -4,11 +4,11 @@
 **Stable**: Yes
 
 ## Time complexity
-
+O(n^2)
 
 ## Pseudocode
 ```
-function sort(inputValues):
+function sort(inputValues: List)
    for i := 1 to |inputValues| do
       j ← i
       while j > 1 and inputValues[j] < inputValues[j - 1] do
@@ -18,7 +18,7 @@ function sort(inputValues):
          j ← j - 1
       end while
    end for
-      
+   return inputValues
 end function
 ```
 

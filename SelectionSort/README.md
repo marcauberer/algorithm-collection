@@ -8,13 +8,12 @@ O(n^2)
 
 ## Pseudocode
 ```
-function sort(inputValues):
+function sort(inputValues: List)
    insertIndex ← 0
    for i := 0 to |inputValues| -1 do
       min ← i
       for j := i + 1 to |inputValues| do
-         if inputValues[j] < inputValues[min] then
-            min ← j
+         if inputValues[j] < inputValues[min] then min ← j
       end for
       interchange inputValues[min] and inputValues[insertIndex]
       insertIndex ← insertIndex + 1
