@@ -1,10 +1,8 @@
 # Selection Sort
 **Algorithm type**: Sorting algorithm <br>
 **Can work in-place**: No <br>
-**Stable**: Stable if the algorithm takes the first minimum, when two equal minimal numbers occur.
-
-## Time complexity
-O(n^2)
+**Stable**: Stable if the algorithm takes the first minimum, when two equal minimal numbers occur. <br>
+**Time complexity**: O(n<sup>2</sup>)
 
 ## Pseudocode
 ```
@@ -18,6 +16,7 @@ function sort(inputValues: List)
       interchange inputValues[min] and inputValues[insertIndex]
       insertIndex ← insertIndex + 1
    end for
+   return inputValues
 end function
 ```
 

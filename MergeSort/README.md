@@ -1,10 +1,8 @@
 # Merge Sort
 **Algorithm type**: Sorting algorithm <br>
 **Can work in-place**: Yes <br>
-**Stable**: Yes
-
-## Time complexity
-Θ(n log n)
+**Stable**: Yes <br>
+**Time complexity**: Θ(n log n)
 
 ## Pseudocode
 ```
@@ -28,7 +26,7 @@ function merge(listA: List, listB: List)
       if listA[0] <= listB[0] then
          c.append(a[0])
       else
-         c.append(b[0])
+         c.append(b[])
    end while
 end function
 ```

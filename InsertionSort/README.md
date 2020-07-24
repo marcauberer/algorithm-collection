@@ -1,10 +1,8 @@
 # Insertion Sort
 **Kind**: Sorting algorithm <br>
 **Can work in-place**: Yes <br>
-**Stable**: Yes
-
-## Time complexity
-O(n^2)
+**Stable**: Yes <br>
+**Time complexity**: O(n<sup>2</sup>)
 
 ## Pseudocode
 ```
