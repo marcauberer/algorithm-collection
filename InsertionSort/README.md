@@ -7,7 +7,7 @@
 ## Pseudocode
 ```
 function sort(inputValues: List)
-   for i := 1 to |inputValues| do
+   for i ← 1 to |inputValues| do
       j ← i
       while j > 1 and inputValues[j] < inputValues[j - 1] do
          e ← inputValues[j]

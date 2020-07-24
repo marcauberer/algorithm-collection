@@ -1,10 +1,8 @@
 # LSD Radix Sort
 **Algorithm type**: Sorting algorithm <br>
-**Can work in-place**:  <br>
-**Stable**: 
-
-## Time complexity
-
+**Can work in-place**: No <br>
+**Stable**: Yes (inherited from Bucket Sort) <br>
+**Time complexity**: O(d * (K + n)); d ≙ number of keys; K ≙ number of occupied buckets
 
 ## Pseudocode
 ```
