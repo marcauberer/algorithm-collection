@@ -2,7 +2,7 @@
 **Algorithm type**: Sorting algorithm <br>
 **Can work in-place**: Yes <br>
 **Stable**: No (randomization) <br>
-**Time complexity**: 
+**Time complexity**: Average case: O(n log n), Worst case: O(n<sup>2</sup>)
 
 ## Pseudocode
 ```

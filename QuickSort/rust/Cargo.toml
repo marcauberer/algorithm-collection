@@ -1,0 +1,7 @@
+[package]
+name = "quick-sort"
+version = "0.1.0"
+authors = ["Marc Auberer <marc.auberer@chillibits.com>"]
+
+[dependencies]
+rand = "0.7.3"
