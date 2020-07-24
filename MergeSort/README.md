@@ -1,7 +1,7 @@
 # Merge Sort
 **Algorithm type**: Sorting algorithm <br>
-**Can work in-place**:  <br>
-**Stable**: 
+**Can work in-place**: Yes <br>
+**Stable**: Yes
 
 ## Time complexity
 
