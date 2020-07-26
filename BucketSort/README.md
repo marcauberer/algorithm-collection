@@ -6,7 +6,9 @@
 
 ## Pseudocode
 ```
-
+function sort(a: List)
+   buckets: 
+end function
 ```
 
 © Marc Auberer 2020

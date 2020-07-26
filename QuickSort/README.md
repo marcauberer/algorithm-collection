@@ -1,7 +1,7 @@
 # Quick Sort
 **Algorithm type**: Sorting algorithm <br>
 **Can work in-place**: Yes <br>
-**Stable**: No (randomization) <br>
+**Stable**: No (because of randomization) <br>
 **Time complexity**: Average case: O(n log n), Worst case: O(n<sup>2</sup>)
 
 ## Pseudocode
