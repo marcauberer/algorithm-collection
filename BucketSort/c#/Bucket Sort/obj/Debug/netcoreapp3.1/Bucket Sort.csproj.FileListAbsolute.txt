@@ -1,0 +1,13 @@
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.csprojAssemblyReference.cache
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.AssemblyInfoInputs.cache
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.AssemblyInfo.cs
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.csproj.CoreCompileInputs.cache
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.exe
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.deps.json
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.runtimeconfig.json
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.runtimeconfig.dev.json
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.dll
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.pdb
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.dll
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.pdb
+D:\Dokumente\JustForFun GitHub Clones\algorithm-collection\BucketSort\c#\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.genruntimeconfig.cache

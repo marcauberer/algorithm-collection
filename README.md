@@ -13,6 +13,7 @@ There are a variety of different algorithms in this repository. To keep an overv
 * [Insertion Sort (Python)](https://github.com/marcauberer/algorithm-collection/tree/master/InsertionSort)
 * [Quick Sort (Rust)](https://github.com/marcauberer/algorithm-collection/tree/master/QuickSort)
 * [Merge Sort (Go)](https://github.com/marcauberer/algorithm-collection/tree/master/MergeSort)
+* [Bucket Sort (C#)](https://github.com/marcauberer/algorithm-collection/tree/master/BucketSort)
 
 ### Hash algorithms
 
