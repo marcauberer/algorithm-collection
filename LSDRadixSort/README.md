@@ -1,4 +1,4 @@
-# LSD Radix Sort
+# LSD Radix Sort (Lowest Significant Digit Sort)
 **Algorithm type**: Sorting algorithm <br>
 **Can work in-place**: No <br>
 **Stable**: Yes (inherited from Bucket Sort) <br>

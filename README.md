@@ -14,7 +14,9 @@ There are a variety of different algorithms in this repository. To keep an overv
 * [Quick Sort (Rust)](https://github.com/marcauberer/algorithm-collection/tree/master/QuickSort)
 * [Merge Sort (Go)](https://github.com/marcauberer/algorithm-collection/tree/master/MergeSort)
 * [Bucket Sort (C#)](https://github.com/marcauberer/algorithm-collection/tree/master/BucketSort)
-* [BubbleSort (no implemenation yet)](ttps://github.com/marcauberer/algorithm-collection/tree/master/BubbleSort)
+* [LSD Radix Sort (Java)](https://github.com/marcauberer/algorithm-collection/tree/master/LSDRadixSort)
+* [Heap Sort (no implementation yet)](https://github.com/marcauberer/algorithm-collection/tree/master/HeapSort)
+* [Bubble Sort (no implemenation yet)](https://github.com/marcauberer/algorithm-collection/tree/master/BubbleSort)
 
 ### Hash algorithms
 **more to come**
