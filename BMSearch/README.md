@@ -1,6 +1,6 @@
 # Boyer & Moore Search Algorithm (BMSearch)
-**Algorithm type**: Search algorithm <br>
-**Condition**: List has to be sorted already <br>
+**Algorithm type**: Pattern matching algorithm <br>
+**Condition**: No conditions <br>
 **Time complexity**: O(log n)
 
 ## Pseudocode
