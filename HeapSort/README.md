@@ -1,7 +1,7 @@
 # Heap Sort
 **Kind**: Sorting algorithm <br>
 **Can work in-place**: Yes <br>
-**Stable**: Yes <br>
+**Stable**: No <br>
 **Time complexity**: O(n log n)
 
 ## Pseudocode
