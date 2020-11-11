@@ -32,4 +32,10 @@ There are a variety of different algorithms in this repository. To keep an overv
 * [Boyer & Moore Search (no implemenation yet)](https://github.com/marcauberer/algorithm-collection/tree/master/BMSearch)
 * [Knuth, Morris and Pratt Search (no implemenation yet)](https://github.com/marcauberer/algorithm-collection/tree/master/KMPSearch)
 
+### Encryption algorithms
+* [SP Networks (TypeScript, unfinished implementation)](https://github.com/marcauberer/algorithm-collection/tree/master/SPNetworks)
+
+### Network encoding algorithms
+* [Hemming Code (Python / PHP)](https://github.com/marcauberer/algorithm-collection/tree/master/HemmingCode)
+
 © Marc Auberer 2020
