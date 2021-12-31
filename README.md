@@ -38,4 +38,4 @@ There are a variety of different algorithms in this repository. To keep an overv
 ### Network encoding algorithms
 * [Hemming Code (Python / PHP)](https://github.com/marcauberer/algorithm-collection/tree/master/HemmingCode)
 
-© Marc Auberer 2020
+© Marc Auberer 2020-2022
